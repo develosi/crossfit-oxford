@@ -1,8 +1,8 @@
-<h1 align="center">Code Institute Website</h1>
+<h1 align="center">CrossFit Oxford Website</h1>
 
 [View the live project here.](https://codeinstitute.net)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+Text Here: Main info regarding website and what it is for.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
