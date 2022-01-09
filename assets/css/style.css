@@ -26,6 +26,18 @@ body {
     position: relative;
 }
 
+.callout-container h1 {
+    color: red;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.callout-container h2 {
+    color: white;
+    font-weight: 900;
+    font-style: italic;
+}
+
 /**** video container ****/
 
 .video-container {
