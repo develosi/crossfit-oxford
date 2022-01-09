@@ -35,10 +35,14 @@ body {
 }
 
 .callout-container h2 {
-    color: white;
+    color: #e5383b;
     font-weight: 900;
     font-style: italic;
     margin-bottom: 30px;
+}
+
+#join-now {
+    color:white;
 }
 
 /**** video container ****/
