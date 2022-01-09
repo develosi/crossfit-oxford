@@ -15,6 +15,11 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
 }
 
 .video-container {
