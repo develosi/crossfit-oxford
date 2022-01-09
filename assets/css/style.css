@@ -52,8 +52,10 @@ body {
 
 /**** video container ****/
 
-.video-container {
-
+.video-container h2 {
+    color: #e5383b;
+    font-weight: 900;
+    font-style: italic; 
 }
 
 /**** facilities container ****/
