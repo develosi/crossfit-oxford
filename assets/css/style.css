@@ -7,6 +7,10 @@ body {
     font-size: x-large;
 }
 
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
 /**** containers ****/
 
 /**** callout container ****/
