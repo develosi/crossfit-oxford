@@ -38,11 +38,12 @@ body {
     color: #e5383b;
     font-weight: 900;
     font-style: italic;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 #join-now {
     color:white;
+    margin-top: 60px;
 }
 
 /**** video container ****/
