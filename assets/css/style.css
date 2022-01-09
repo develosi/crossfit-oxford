@@ -14,7 +14,7 @@ body {
 .callout-container {
     height: 90vh;
 
-    background: url(../images/background-girl-with-ropes.jpg) no-repeat center center fixed; 
+    background: url(../images/background-girl-with-crossfit-ropes.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -27,7 +27,7 @@ body {
 }
 
 .callout-container h1 {
-    color: #e5383b;
+    color: white;
     font-weight: 900;
     font-style: italic;
     font-size: 300%;
