@@ -75,8 +75,10 @@ body {
 
 .facilities-container p {
     color: white;
+    margin-bottom: 40px;
 }
 
 .facilities-container i {
     color: #e5383b;
+    margin-bottom: 15px;
 }
