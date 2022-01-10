@@ -11,9 +11,7 @@ body {
     font-weight: bold;
 }
 
-/**** containers ****/
-
-/**** callout container ****/
+/*-------- callout container --------*/
 
 .callout-container {
     height: 90vh;
@@ -50,7 +48,7 @@ body {
     margin-top: 60px;
 }
 
-/**** video container ****/
+/*-------- video container --------*/
 
 .video-container h2 {
     color: #e5383b;
@@ -60,7 +58,7 @@ body {
     margin-bottom: 30px;
 }
 
-/**** facilities container ****/
+/*-------- facilities container --------*/
 
 .facilities-container h2 {
     color: #e5383b;
@@ -84,7 +82,7 @@ body {
     margin-bottom: 15px;
 }
 
-/**** footer container ****/
+/*-------- footer container --------*/
 
 .footer-container p {
     color: white;
