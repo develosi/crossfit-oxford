@@ -83,3 +83,9 @@ body {
     color: #e5383b;
     margin-bottom: 15px;
 }
+
+/**** footer container ****/
+
+.footer-container p {
+    color: white;
+}
