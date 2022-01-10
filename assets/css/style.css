@@ -76,3 +76,7 @@ body {
 .facilities-container p {
     color: white;
 }
+
+.facilities-container i {
+    color: #e5383b;
+}
