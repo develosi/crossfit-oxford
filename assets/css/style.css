@@ -11,6 +11,10 @@ body {
     font-weight: bold;
 }
 
+.btn {
+    font-weight: bold;
+}
+
 /*------------------------------- callout container */
 
 .callout-container {
