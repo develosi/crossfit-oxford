@@ -11,10 +11,6 @@ body {
     font-weight: bold;
 }
 
-.btn {
-    font-weight: bold;
-}
-
 /*------------------------------- callout container */
 
 .callout-container {
@@ -50,6 +46,10 @@ body {
 #join-now {
     color:white;
     margin-top: 60px;
+}
+
+.callout-container button {
+    font-weight: bold;
 }
 
 /*---------------------------------- video container */
