@@ -67,6 +67,12 @@ body {
     font-style: italic; 
 }
 
-.facilities-container h3, p {
+.facilities-container h3 {
+    color: white;
+    font-weight: 900;
+    font-style: italic; 
+}
+
+.facilities-container p {
     color: white;
 }
