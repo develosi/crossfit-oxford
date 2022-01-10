@@ -89,3 +89,7 @@ body {
 .footer-container p {
     color: white;
 }
+
+.footer-container i {
+    color: #e5383b;
+}
