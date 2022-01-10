@@ -93,3 +93,8 @@ body {
 .footer-container i {
     color: #e5383b;
 }
+
+.footer-container {
+    height: 40vh;
+    bottom: 0;
+  }
