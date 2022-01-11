@@ -92,8 +92,27 @@ body {
 
 /* -------------------------- team callout container */
 
+.team-callout-container {
+    height: 60vh;
 
+    background: url(../images/team-background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.team-callout-container h1 {
+    color: white;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 300%;
+}
 
 /* --------------------------------- team container */
 
