@@ -165,11 +165,9 @@ body {
 
 /* ---------------------------- contact form container */
 
-
-
-
-
-
+.contact-form-container label {
+    color: white;
+}
 
 /* ------------------------------- footer container */
 
