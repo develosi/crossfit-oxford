@@ -167,6 +167,25 @@ body {
 
 .contact-form-container label {
     color: white;
+    font-weight: bold;
+}
+
+.contact-form-container button {
+    font-weight: bold;
+}
+
+/* ------------------------------- address container */
+
+.address-container h2 {
+    color: #e5383b;
+    font-weight: 900;
+    font-style: italic; 
+}
+
+.address-container h3 {
+    color: white;
+    font-weight: 900;
+    font-style: italic; 
 }
 
 /* ------------------------------- footer container */
