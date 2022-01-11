@@ -156,6 +156,13 @@ body {
     font-size: 300%;
 }
 
+.contact-callout-container h2 {
+    color: #e5383b;
+    font-weight: 900;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
 /* ------------------------------- footer container */
 
 .footer-container p {
