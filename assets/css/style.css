@@ -67,6 +67,10 @@ body {
     margin-bottom: 30px;
 }
 
+.video-container iframe {
+    border: none;
+}
+
 /* ------------------------------ facilities container */
 
 .facilities-container h2 {
