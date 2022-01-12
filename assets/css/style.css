@@ -19,13 +19,13 @@ body {
 
 .callout-container {
     height: 90vh;
-
+/* ------------------------ code from css-tricks site */
     background: url(../images/background-girl-with-crossfit-ropes.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
+/* ------------------------ code from css-tricks site */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -94,13 +94,13 @@ body {
 
 .team-callout-container {
     height: 60vh;
-
+/* ------------------------ code from css-tricks site */
     background: url(../images/team-background.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
+/* ------------------------ code from css-tricks site */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -136,13 +136,13 @@ body {
 
 .contact-callout-container {
     height: 60vh;
-
+/* ------------------------ code from css-tricks site */
     background: url(../images/background-contact.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
+/* ------------------------ code from css-tricks site */
     display: flex;
     align-items: center;
     justify-content: center;
