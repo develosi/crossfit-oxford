@@ -1,8 +1,14 @@
-<h1 align="center">CrossFit Oxford Website</h1>
+<h1 align="center">CrossFit Oxford Project</h1>
 
 [View the live project here.](https://develosi.github.io/crossfit-oxford/)
 
-Text Here: Main info regarding website and what it is for.
+The purpose of this project was to create a website using the skills and techniques I've learned in HTML and CSS so far. 
+I decided to design and create a website for an imaginary CrossFit Gym business based in Oxford UK.
+
+Please note this is not a real business and there is not a CrossFit gym based in Oxford as far as I am aware of.
+
+As I am interested in the fitness industry myself this is a type of website that I thought I may encounter, as such I feel that I should have a good idea of what a potential site visitor maybe looking for. 
+The website for the purpose for the project is over three pages, if it were a real CrossFit gym website I would be looking to add other features and content that a potential visitor may want to see. 
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
