@@ -1,6 +1,6 @@
 <h1 align="center">CrossFit Oxford Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://develosi.github.io/crossfit-oxford/)
 
 Text Here: Main info regarding website and what it is for.
 
@@ -203,6 +203,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
+Template of README.md file used from Code Institute. 
+
 ### Code
 
 -   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
@@ -213,7 +215,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
--   All content was written by the developer.
+-   All content was written by myself with inspiration from CrossFit gyms around the country to see the type of services that they offer.
 
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
@@ -223,6 +225,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor for helpful guidence and the other students in my class who gave tips and advice along the way.
 
 -   Tutor support at Code Institute for their support.
