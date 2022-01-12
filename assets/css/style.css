@@ -19,19 +19,20 @@ body {
 
 .callout-container {
     height: 90vh;
-/* ------------------------ code from css-tricks site */
+/* --------------------- code from css-tricks website */
     background: url(../images/background-girl-with-crossfit-ropes.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-/* ------------------------ code from css-tricks site */
+/* --------------------- code from css-tricks website */
+/* ---------- code from code-institute whiskey project */
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
-
+/* ---------- code from code-institute whiskey project */
 .callout-container h1 {
     color: white;
     font-weight: 900;
@@ -94,19 +95,20 @@ body {
 
 .team-callout-container {
     height: 60vh;
-/* ------------------------ code from css-tricks site */
+/* --------------------- code from css-tricks website */
     background: url(../images/team-background.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-/* ------------------------ code from css-tricks site */
+/* --------------------- code from css-tricks website */
+/* ---------- code from code-institute whiskey project */
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
-
+/* ---------- code from code-institute whiskey project */
 .team-callout-container h1 {
     color: white;
     font-weight: 900;
@@ -136,19 +138,20 @@ body {
 
 .contact-callout-container {
     height: 60vh;
-/* ------------------------ code from css-tricks site */
+/* --------------------- code from css-tricks website */
     background: url(../images/background-contact.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-/* ------------------------ code from css-tricks site */
+/* --------------------- code from css-tricks website */
+/* ---------- code from code-institute whiskey project */
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
-
+/* ---------- code from code-institute whiskey project */
 .contact-callout-container h1 {
     color: white;
     font-weight: 900;
