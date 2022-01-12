@@ -12,29 +12,23 @@ The website for the purpose for the project is over three pages, if it were a re
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
+---
+
 ## User Experience (UX)
 
--   ### User stories
+### User Visitor Goals
 
-    -   #### First Time Visitor Goals
+- I want to easily and quickly learn more about the gym, what is has to offer and what facilities are available.
+- I want to be able to easily navigate throughout the site to find the information I need.
+- I want to see the contact information quickly and find out the location of the gym.
+- I want to find out more about the personal trainers and coaches that are based at the gym.
+- I want to locate the social media links to see their following to determine how trusted and well known they are.
+- I want to know how I can become a member of the gym.
+- I want to know if there are any special offers available for first time members joining the gym.
 
-        1. As a First Time Visitor, I want to easily ans quickly learn more about the gym and what is has to offer.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the information I need.
-        3. As a First Time Visitor, I want to see the contact information quickly and find out more about the personal trainers and coaches that are based at the gym. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+## Design
 
-    -   #### Returning Visitor Goals
-
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
-
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-
--   ### Design
-    -   #### Colour Scheme
+### Colour Scheme
         -   The two main colours used are Code Insititue red, and white.
     -   #### Typography
         -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
