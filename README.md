@@ -104,9 +104,74 @@ IMAGE OF TEAM HERE
 - [Gitpod](https://gitpod.io/) - Used to edit code on the site.
 - [Github](https://github.com/) - Used to host, edit and hold repository of the website.
 
+---
+
+## Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Javascript](https://en.wikipedia.org/wiki/JavaScript) Please note the Boostrap library uses Javascript though I did not edit any javascript on this project. 
+
+---
+
+## Testing
+
+### HTML and CSS Code
+
+- HTML
+- [W3C HTML Validation Service](https://validator.w3.org/) No errors were found.
+- CSS
+- [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/) No errors were found.
+
+IMAGE HERE OF HTML TEST 
+
+IMAGE HERE OF CSS TEST
+
+### Responsiveness
+
+- Manual checks carried out on Google dev tools to ensure full responsiveness on various device screen sizes. 
+- Manual checks carried out on site [responsivedesignchecker](https://responsivedesignchecker.com/) to check usability on various device screen sizes.
+
+### Browser Testing
+
+- Manual checks complete on browsers Firefox, Opera, Safari and Chrome to ensure all pages displayed correctly and had full responsive functionality on all screen sizes from mobile to desktop.
+
+### Google Lighthouse
+
+- Google lighthouse testing was carried out on the site. 
+- The site got a low score particularly on speed performance. 
+- All images on the site were compressed to improve the performance. 
+- The Lighthouse review on the second round gave a score of xxxxxxxxxxx after the images were compressed. 
+- With more time I would have spent longer on the data recovered from the Lighthouse review to look at each score in more detail so further improvements could be made to the site. 
+
+IMAGES HERE OF LIGHTHOUSE SCORES BEFORE
+
+IMAGES HERE OF LIGHTHOUSE SCORE AFTERWARDS.
+
+### Testing User Stories From User Visitor Goals
+
+#### I want to easily and quickly learn more about the gym, what is has to offer and what facilities are available.
+- On the opening home page you are greeted with a hero banner with a callout section explaining that the gym is a "Strength and Conditioning" type of facility. 
+- As you scroll down the home page you are shown a short video explaining what CrossFit is. 
+- The last section on the homepage shows a quick breakdown of the main key points the gym has to offer in the way of facilities with icons and a short description. 
+
+#### I want to be able to easily navigate throughout the site to find the information I need.
+- The site has a very clean and minimal design with high contrasting colours. 
+- The navbar along with the homepage callout section shows you other places on the site that you can find other information that you may need. 
+
+#### I want to see the contact information quickly and find out the location of the gym. 
+- The contact page immediately greets you with a contact form with a callout at the top of the page explaining what the form can be used for. 
+- There is also an address section under the form for people that would like to visit in person. 
+- With more time I would like to have also added a Google map showing the location of the gym exactly with interactivity.
 
 
 
+
+
+
+
+
+https://en.wikipedia.org/wiki/JavaScript
 
 
 
