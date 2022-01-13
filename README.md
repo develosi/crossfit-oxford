@@ -1,6 +1,8 @@
 <h1 align="center">CrossFit Oxford Project</h1>
 
+
 [View the live project here.](https://develosi.github.io/crossfit-oxford/)
+
 
 The purpose of this project was to create a website using the skills and techniques I've learned in HTML and CSS so far. 
 I decided to design and create a website for an imaginary CrossFit Gym business based in Oxford UK.
@@ -10,7 +12,9 @@ Please note this is not a real business and there is not a CrossFit gym based in
 As I am interested in the fitness industry myself this is a type of website that I thought I may encounter, as such I feel that I should have a good idea of what a potential site visitor maybe looking for. 
 The website for the purpose for the project is over three pages, if it were a real CrossFit gym website I would be looking to add other features and content that a potential visitor may want to see. 
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+
+![Mockup image of website on desktop and mobile](assets/readme-images/mockup.png)
+
 
 ---
 
@@ -43,17 +47,25 @@ The website for the purpose for the project is over three pages, if it were a re
 
 - I created a colour palette for the site though some colours have not been used. If the site was to be expanded upon then I can see more use cases for the other colours in the palette. 
 
-COLOUR PALETTE IMAGE HERE
-      
+
+![Website colour palette](assets/readme-images/colours.png)
+
+
 ### Typography
 
 - For the logo I used Anton from Google fonts.
+
+
+![Anton Font](assets/readme-images/font-anton.png)
+
 
 - For body text Roboto font is used, using 400 weight for regular informational sections, 900 weight in italic is used for headings and important information. Roboto is also from Google fonts.
 
 - Sans-serif was used as the back up font through out the website.
 
-IMAGE HERE OF FONTS
+
+![Roboto Font](assets/readme-images/font-roboto.jpg)
+
 
 ### Imagery 
 
@@ -63,7 +75,12 @@ IMAGE HERE OF FONTS
 
 - The user may not notice the background hero image at first glance but when they notice it the image should reinforce what type of environment they should expect to find at the gym. 
 
-IMAGES HERE OF HERO BACKGROUND IMAGES
+
+![Hero image homepage](assets/readme-images/screenshot-homepage-callout.png)
+
+
+![Hero image Teampage](assets/readme-images/screenshot-team-callout.png)
+
 
 ### Wireframes
 
@@ -71,7 +88,12 @@ IMAGES HERE OF HERO BACKGROUND IMAGES
 
 - After the wireframes were created and development of the site had commenced some small changes to the layout have been made. 
 
-WIREFRAME IMAGES HERE
+
+![Desktop wireframes](assets/readme-images/wireframes-desktop.jpg)
+
+
+![Mobile wireframes](assets/readme-images/wireframes-mobile.jpg)
+
 
 ---
 
@@ -83,15 +105,21 @@ WIREFRAME IMAGES HERE
 
 - There is a video section linked to the CrossFit youtube channel so that people can discover what are the particular advantages of CrossFit. 
 
-IMAGE OF VIDEO SECTION HERE
+
+![Video player section](assets/readme-images/screenshot-homepage-video.png)
+
 
 - Footer section is kept clean and minimal with obvious links to social pages for the gym that open in seperate tabs.
 
-IMAGE OFF FOOTER HERE 
+
+![Homepage footer section](assets/readme-images/screenshot-contact-footer.png) 
+
 
 - The navbar is using bootstrap code that ensures a nice minimal design and is fully responsive on all screen sizes. 
 
-IMAGE OF NAVBAR SECTION HERE
+
+![Contact page navbar section](assets/readme-images/screenshot-contact-callout.png)
+
 
 - Contact form using bootstrap ensuring responsiveness. Please note that the form is not linked to any database for the purpose of this project and the submit button doesn't have any functionality.
 
