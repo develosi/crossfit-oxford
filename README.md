@@ -19,11 +19,16 @@ The website for the purpose for the project is over three pages, if it were a re
 ### User Visitor Goals
 
 - I want to easily and quickly learn more about the gym, what is has to offer and what facilities are available.
+
 - I want to be able to easily navigate throughout the site to find the information I need.
+
 - I want to see the contact information quickly and find out the location of the gym.
+
 - I want to find out more about the personal trainers and coaches that are based at the gym.
+
 - I want to locate the social media links to see their following to determine how trusted and well known they are.
 - I want to know how I can become a member of the gym.
+
 - I want to know if there are any special offers available for first time members joining the gym.
 
 --- 
@@ -33,7 +38,9 @@ The website for the purpose for the project is over three pages, if it were a re
 ### Colour Scheme
 
 - The colour scheme is mainly dark grey, red, black and white. The red was chosen as this red is mostly associated with CrossFit gyms.
+
 - For the background I decided to keep the theme to a dark grey rather than using a light colour to help add intensity and contrast well with the red used throughout.
+
 - I created a colour palette for the site though some colours have not been used. If the site was to be expanded upon then I can see more use cases for the other colours in the palette. 
 
 COLOUR PALETTE IMAGE HERE
@@ -41,7 +48,9 @@ COLOUR PALETTE IMAGE HERE
 ### Typography
 
 - For the logo I used Anton from Google fonts.
-- For body text Roboto font is used, using 400 weight for regular informational sections, 900 weight in italic is used for headings and important information. Roboto is also from Google fonts. 
+
+- For body text Roboto font is used, using 400 weight for regular informational sections, 900 weight in italic is used for headings and important information. Roboto is also from Google fonts.
+
 - Sans-serif was used as the back up font through out the website.
 
 IMAGE HERE OF FONTS
@@ -49,7 +58,9 @@ IMAGE HERE OF FONTS
 ### Imagery 
 
 - The background hero images at the top of each page is designed to be bold yet subliminal.
+
 - The users attention should be focused on the callout wording in front of each hero image.
+
 - The user may not notice the background hero image at first glance but when they notice it the image should reinforce what type of environment they should expect to find at the gym. 
 
 IMAGES HERE OF HERO BACKGROUND IMAGES
@@ -57,6 +68,7 @@ IMAGES HERE OF HERO BACKGROUND IMAGES
 ### Wireframes
 
 - Wireframes were created to keep a very clean and minimal design throughout so that the user can get to the information they require quickly and easily.
+
 - After the wireframes were created and development of the site had commenced some small changes to the layout have been made. 
 
 WIREFRAME IMAGES HERE
@@ -66,7 +78,9 @@ WIREFRAME IMAGES HERE
 ## Features
 
 - The most important aspect of the site is that it is usable on all devices and especially on mobile.
+
 - Bootstrap has been used extensively throughout the site to ensure responsiveness and usability on all screen sizes.
+
 - There is a video section linked to the CrossFit youtube channel so that people can discover what are the particular advantages of CrossFit. 
 
 IMAGE OF VIDEO SECTION HERE
@@ -96,12 +110,19 @@ IMAGE OF TEAM HERE
 ## Technologies Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used for the content and structure for the site.
-- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used for the styling of the site. 
+
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used for the styling of the site.
+
 - [Bootstrap](https://getbootstrap.com/) - Responsive library resource using css and javascript components.
+
 - [Fontawesome](https://fontawesome.com/) - library of icons hosted on a cdn.
+
 - [GoogleFonts](https://fonts.google.com/) - library of fonts used hosted on Google cdn.
+
 - [Balsamiq](https://balsamiq.com/) - Used to create the wireframes.
+
 - [Gitpod](https://gitpod.io/) - Used to edit code on the site.
+
 - [Github](https://github.com/) - Used to host, edit and hold repository of the website.
 
 ---
@@ -109,7 +130,9 @@ IMAGE OF TEAM HERE
 ## Languages Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
 - [Javascript](https://en.wikipedia.org/wiki/JavaScript) Please note the Boostrap library uses Javascript though I did not edit any javascript on this project. 
 
 ---
@@ -118,9 +141,9 @@ IMAGE OF TEAM HERE
 
 ### HTML and CSS Code
 
-- HTML
+#### HTML
 - [W3C HTML Validation Service](https://validator.w3.org/) No errors were found.
-- CSS
+#### CSS
 - [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/) No errors were found.
 
 IMAGE HERE OF HTML TEST 
@@ -130,6 +153,7 @@ IMAGE HERE OF CSS TEST
 ### Responsiveness
 
 - Manual checks carried out on Google dev tools to ensure full responsiveness on various device screen sizes. 
+
 - Manual checks carried out on site [responsivedesignchecker](https://responsivedesignchecker.com/) to check usability on various device screen sizes.
 
 ### Browser Testing
@@ -139,9 +163,13 @@ IMAGE HERE OF CSS TEST
 ### Google Lighthouse
 
 - Google lighthouse testing was carried out on the site. 
+
 - The site got a low score particularly on speed performance. 
+
 - All images on the site were compressed to improve the performance. 
+
 - The Lighthouse review on the second round gave a score of xxxxxxxxxxx after the images were compressed. 
+
 - With more time I would have spent longer on the data recovered from the Lighthouse review to look at each score in more detail so further improvements could be made to the site. 
 
 IMAGES HERE OF LIGHTHOUSE SCORES BEFORE
@@ -151,18 +179,103 @@ IMAGES HERE OF LIGHTHOUSE SCORE AFTERWARDS.
 ### Testing User Stories From User Visitor Goals
 
 #### I want to easily and quickly learn more about the gym, what is has to offer and what facilities are available.
+
 - On the opening home page you are greeted with a hero banner with a callout section explaining that the gym is a "Strength and Conditioning" type of facility. 
-- As you scroll down the home page you are shown a short video explaining what CrossFit is. 
+
+- As you scroll down the home page you are shown a short video explaining what CrossFit is.
+
 - The last section on the homepage shows a quick breakdown of the main key points the gym has to offer in the way of facilities with icons and a short description. 
 
 #### I want to be able to easily navigate throughout the site to find the information I need.
+
 - The site has a very clean and minimal design with high contrasting colours. 
+
 - The navbar along with the homepage callout section shows you other places on the site that you can find other information that you may need. 
 
 #### I want to see the contact information quickly and find out the location of the gym. 
+
 - The contact page immediately greets you with a contact form with a callout at the top of the page explaining what the form can be used for. 
+
 - There is also an address section under the form for people that would like to visit in person. 
+
 - With more time I would like to have also added a Google map showing the location of the gym exactly with interactivity.
+
+#### I want to find out more about the personal trainers and coaches that are based at the gym.
+
+- On the homepage you can navigate to the "Team" page where you are presented with a short bio of each of the team members. 
+
+#### I want to locate the social media links to see their following to determine how trusted and well known they are.
+
+- Social media links for the gym are clearly shown in the footer of each page and open in a new browser tab. 
+
+#### I want to know how I can become a member of the gym. 
+
+- On the homepage there is a bold callout section at the top of the page that takes you to the contact section where the form explains that it is to be used for new members to get in touch with the gym.
+
+- The button on the homepage asks the user to "Become a member" which takes you directly to the contact form.
+
+#### I want to know if there are any special offers available for first time members joining the gym.
+
+- On the homepage main callout section it is shown in bold that there is a free first session available for all new members that join the gym. 
+
+---
+
+## Features Left to Implement
+
+- On the Teams page a link to be able to directly book personal training sessions with each of the trainers. 
+
+- Timetable page added that is interactive and is updated live by the staff at the gym. 
+
+- Blog content for SEO as well as advice and guidance for current members and potential new members. 
+
+- More detailed contact page with interactive map. 
+
+- A callout section to sign up to email list for information and regular updates from the gym. 
+
+- Possibly an online store section so that members can buy apparel and equipment. This could be linked to a small physical store within the gym using Shopify. 
+
+- Add more styling and interactivity on the site to add to the user experience. 
+
+---
+
+## Known Bugs 
+
+### Resolved
+
+#### Discovered During W3 validator checks
+
+- Fix to iframe border for the YouTube video as it was giving an error from validator, it is a known issue and was resolved with info from stackoverflow. [Source](https://stackoverflow.com/questions/3601273/html5-and-frameborder/20719286)
+
+- Fixed using double hyphens on comments as this was causing an XML error. 
+
+- Placing aria labels in correct position on multiple locations. 
+
+#### Discovered Throughout Build and During Testing
+
+- Fixed red glow on contact form from standard blue Bootstrap colour to a custom red that I wanted to use. Fix found on Stackoverflow. [Source](https://stackoverflow.com/questions/14820952/change-bootstrap-input-focus-blue-glow)
+
+### Unresolved 
+
+- Navbar toggler menu after expanded doesn't close with secondary click as it should. This is an issue with the javascript in Bootstrap and I have been unable to resolve. I have found a few potential fixes and workarounds online but none of them worked. 
+As I learn more about Javascript I may come back to this issue to fix. 
+
+- On smaller screen sizes the homepage callout section is not correctly positioned. Noticed on phone screens of 320 x 480. Need to go back and check on all margins and padding for hero image callout section at top of homepage. I think this is the issue.  
+ 
+- Contact form is not linked up to anywhere and that needs to be set up with a server to complete. 
+
+- I would like to continue investigating with Google Lighthouse to increase the site performance and look into more detail on the other metrics that it is analysing. 
+
+--- 
+
+## Deployment
+
+
+
+
+
+
+
+
 
 
 
