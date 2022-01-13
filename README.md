@@ -123,15 +123,21 @@ The website for the purpose for the project is over three pages, if it were a re
 
 - Contact form using bootstrap ensuring responsiveness. Please note that the form is not linked to any database for the purpose of this project and the submit button doesn't have any functionality.
 
-IMAGE OF FORM SECTION HERE
+
+![Contact form section](assets/readme-images/screenshot-contact-form.png)
+
 
 - Clean minimal design with icons from fontawesome quickly explaining what facilities are available at the gym on the homepage. 
 
-IMAGE OF FACILITIES SECTION HERE
+
+![Homepage facilities section](assets/readme-images/screenshot-homepage-facilities.png)
+
 
 - Simple layout of the "Team" section so people can quickly see a short bio of each trainer at the gym. With more time I would expand upon this section and maybe have the capability to book training sessions with each trainer. 
 
-IMAGE OF TEAM HERE
+
+![Team members section](assets/readme-images/screenshot-team-members.png)
+
 
 ---
 
@@ -174,10 +180,6 @@ IMAGE OF TEAM HERE
 #### CSS
 - [W3C (Jigsaw) CSS Validator](https://jigsaw.w3.org/css-validator/) No errors were found.
 
-IMAGE HERE OF HTML TEST 
-
-IMAGE HERE OF CSS TEST
-
 ### Responsiveness
 
 - Manual checks carried out on Google dev tools to ensure full responsiveness on various device screen sizes. 
@@ -200,9 +202,9 @@ IMAGE HERE OF CSS TEST
 
 - With more time I would have spent longer on the data recovered from the Lighthouse review to look at each score in more detail so further improvements could be made to the site. 
 
-IMAGES HERE OF LIGHTHOUSE SCORES BEFORE
 
-IMAGES HERE OF LIGHTHOUSE SCORE AFTERWARDS.
+![Google lighthouse test screenshot](assets/readme-images/lighthouse-desk-test.png)
+
 
 ### Testing User Stories From User Visitor Goals
 
