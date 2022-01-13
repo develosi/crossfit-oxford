@@ -26,16 +26,35 @@ The website for the purpose for the project is over three pages, if it were a re
 - I want to know how I can become a member of the gym.
 - I want to know if there are any special offers available for first time members joining the gym.
 
+--- 
+
 ## Design
 
 ### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
-    -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
-    -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
-*   ### Wireframes
+- The colour scheme is mainly dark grey, red, black and white. The red was chosen as this red is mostly associated with CrossFit gyms.
+- For the background I decided to keep the theme to a dark grey rather than using a light colour to help add intensity and contrast well with the red used throughout.
+- I created a colour palette for the site though some colours have not been used. If the site was to be expanded upon then I can see more use cases for the other colours in the palette. 
+
+COLOUR PALETTE IMAGE HERE
+      
+### Typography
+
+- For the logo I used Anton from Google fonts.
+- For body text Roboto font is used, using 400 weight for regular informational sections, 900 weight in italic is used for headings and important information. Roboto is also from Google fonts. 
+- Sans-serif was used as the back up font through out the website.
+
+IMAGE HERE OF FONTS
+
+### Imagery 
+
+- The background hero images at the top of each page is designed to be bold yet subliminal.
+- The users attention should be focused on the callout wording in front of each hero image.
+- The user may not notice the background hero image at first glance but when they notice it the image should reinforce what type of environment they should expect to find at the gym. 
+
+IMAGES HERE OF HERO BACKGROUND IMAGES
+
+### Wireframes
 
     -   Home Page Wireframe - [View](https://github.com/)
 
