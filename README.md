@@ -91,6 +91,31 @@ IMAGE OF FACILITIES SECTION HERE
 
 IMAGE OF TEAM HERE
 
+---
+
+## Technologies Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used for the content and structure for the site.
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used for the styling of the site. 
+- [Bootstrap](https://getbootstrap.com/) - Responsive library resource using css and javascript components.
+- [Fontawesome](https://fontawesome.com/) - library of icons hosted on a cdn.
+- [GoogleFonts](https://fonts.google.com/) - library of fonts used hosted on Google cdn.
+- [Balsamiq](https://balsamiq.com/) - Used to create the wireframes.
+- [Gitpod](https://gitpod.io/) - Used to edit code on the site.
+- [Github](https://github.com/) - Used to host, edit and hold repository of the website.
+
+
+
+
+
+
+
+
+https://getbootstrap.com/
+https://fontawesome.com/
+https://fonts.google.com/
+https://balsamiq.com/
+https://gitpod.io/
 
 
 
