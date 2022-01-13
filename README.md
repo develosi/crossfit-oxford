@@ -56,6 +56,48 @@ IMAGES HERE OF HERO BACKGROUND IMAGES
 
 ### Wireframes
 
+- Wireframes were created to keep a very clean and minimal design throughout so that the user can get to the information they require quickly and easily.
+- After the wireframes were created and development of the site had commenced some small changes to the layout have been made. 
+
+WIREFRAME IMAGES HERE
+
+---
+
+## Features
+
+- The most important aspect of the site is that it is usable on all devices and especially on mobile.
+- Bootstrap has been used extensively throughout the site to ensure responsiveness and usability on all screen sizes.
+- There is a video section linked to the CrossFit youtube channel so that people can discover what are the particular advantages of CrossFit. 
+
+IMAGE OF VIDEO SECTION HERE
+
+- Footer section is kept clean and minimal with obvious links to social pages for the gym that open in seperate tabs.
+
+IMAGE OFF FOOTER HERE 
+
+- The navbar is using bootstrap code that ensures a nice minimal design and is fully responsive on all screen sizes. 
+
+IMAGE OF NAVBAR SECTION HERE
+
+- Contact form using bootstrap ensuring responsiveness. Please note that the form is not linked to any database for the purpose of this project and the submit button doesn't have any functionality.
+
+IMAGE OF FORM SECTION HERE
+
+- Clean minimal design with icons from fontawesome quickly explaining what facilities are available at the gym on the homepage. 
+
+IMAGE OF FACILITIES SECTION HERE
+
+- Simple layout of the "Team" section so people can quickly see a short bio of each trainer at the gym. With more time I would expand upon this section and maybe have the capability to book training sessions with each trainer. 
+
+IMAGE OF TEAM HERE
+
+
+
+
+
+
+
+
     -   Home Page Wireframe - [View](https://github.com/)
 
     -   Mobile Wireframe - [View](https://github.com/)
