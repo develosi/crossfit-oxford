@@ -351,4 +351,4 @@ As I learn more about Javascript I may come back to this issue to fix.
 
 - My teacher Philip for his advice and patience with me. : )  
 
-- Other students in my class that have been generous enough to give tips and advice. 
+- Other the fellow students in my class that have been generous with plenty of tips and advice. 
