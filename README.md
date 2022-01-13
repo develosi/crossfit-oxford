@@ -142,9 +142,9 @@ IMAGE OF TEAM HERE
 ### HTML and CSS Code
 
 #### HTML
-- [W3C HTML Validation Service](https://validator.w3.org/) No errors were found.
+- [W3C HTML Validator](https://validator.w3.org/) No errors were found.
 #### CSS
-- [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/) No errors were found.
+- [W3C (Jigsaw) CSS Validator](https://jigsaw.w3.org/css-validator/) No errors were found.
 
 IMAGE HERE OF HTML TEST 
 
@@ -269,6 +269,49 @@ As I learn more about Javascript I may come back to this issue to fix.
 
 ## Deployment
 
+- The site was deployed to [GitHub](https://pages.github.com/) pages. Using the following steps:
+
+- Create a repository on GitHub and initialise it with a README.MD file.
+
+- The root of your repository must contain an index.html file which will be the main page of your live GitHub Page.
+
+- Go to repository settings, scroll to GitHub Pages and select the master branch for your source.
+
+- Save the selection and when the page reloads the link to your live site will be in the GitHub Pages section. The link can take up to 1 hour to go live.
+
+- The live link for this website can be found [here](https://develosi.github.io/crossfit-oxford/).
+
+---
+
+## Credits
+
+### Media
+
+- All images used on the site are free to use for non commercial use: [Pexels](https://www.pexels.com/)
+
+- README file mockup of website on desktop and mobile: [techsini](https://techsini.com/multi-mockup/index.php)
+
+- Youtube video about CrossFit made by CrossFit Organisation: [YouTube](https://www.youtube.com/watch?v=mlVrkiCoKkg)
+
+- Icons: [Fontawesome](https://fontawesome.com/) 
+
+- Fonts: [GoogleFonts](https://fonts.google.com/)
+
+### Content
+
+- All content was written by myself with inspiration from various CrossFit gym websites around the country to get ideas on the types of services that they offer.
+
+- Inspiration on the design and layout has been taken from the previous projects that I have completed during the course such as Love Running, Whiskey Drop and the CV project. 
+
+### Code
+
+- Background image code for full screen used in the hero callout section of each page: [css-tricks.com](https://css-tricks.com/perfect-full-page-background-image/).
+
+- README file template I used was from Code Institute: [Source](https://github.com/Code-Institute-Solutions/SampleREADME).
+
+- Bootstrap code used throughout site to maintain responsiveness: Bootstrap 
+
+- Some code is from the Code Institute Whiskey Drop project and those sections have comments showing where that code is used.
 
 
 
