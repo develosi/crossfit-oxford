@@ -164,11 +164,11 @@ IMAGE HERE OF CSS TEST
 
 - Google lighthouse testing was carried out on the site. 
 
-- The site got a low score particularly on speed performance. 
+- The site got an initial low score particularly on speed performance before using compressed images. 
 
 - All images on the site were compressed to improve the performance. 
 
-- The Lighthouse review on the second round gave a score of xxxxxxxxxxx after the images were compressed. 
+- The Lighthouse review gave an initial performance score in desktop mode of 44, the second round gave a score of 98 after the images were compressed. 
 
 - With more time I would have spent longer on the data recovered from the Lighthouse review to look at each score in more detail so further improvements could be made to the site. 
 
